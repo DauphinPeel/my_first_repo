@@ -1,2 +1,2 @@
 # my_first_repo
-Just having some fun at Platzi!
+This is a change on my README
